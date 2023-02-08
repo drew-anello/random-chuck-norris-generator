@@ -1,1 +1,1 @@
-![alt text](images/chuck.jpeg){display="flex" justifycontent="center"}
+![alt text](images/chuck.jpeg)
