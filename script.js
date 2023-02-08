@@ -8,6 +8,10 @@ btn.addEventListener('click', function (e) {
   fetch(request)
     .then(response => response.json())
     .then(data => {
-      console.log(data)
+      if (div.firstChild) {
+        div.removeChild(div.firstChild)
+      }
+      const joke = document.createTextNode(data.value)
+      div.appendChild(joke)
     })
 })

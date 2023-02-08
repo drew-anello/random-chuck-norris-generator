@@ -25,6 +25,10 @@ button {
     width: 11.5%;
     height: 7vh;
 }
+div {
+  margin: 3%;
+  padding: 1%;
+}
 @media only screen and (max-width: 768px) {
     body {
       background-color: papayawhip;
