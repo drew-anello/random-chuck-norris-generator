@@ -4,6 +4,8 @@
 
 # Chuck Noris Generator
 
+### https://chucknorris.up.railway.app/
+
 Welcome to the Chuck Norris Generator. When you click the button a random Chuck Norris Joke will appear on your page. 
 When you click the button again teh original joke will be replaced with a new Chuck Norris Joke.
 
